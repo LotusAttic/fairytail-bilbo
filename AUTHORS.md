@@ -4,9 +4,8 @@
 
 Daidson Fonseca Alves
 
-=== Group NN: group name ===
+=== Group NN: Bilbo  ===
 
-* Nome Aluno 1 Completo, @githubuser1
-* Nome Aluno 2 Completo, @githubuser2
-* ...
-
+* Carlos Eduardo Araujo Diniz Filho, @eduardodinizf
+* Bruna Castro da Silva, @Brunaicastro
+* Rodrigo Almeida Malaquias, @rodrigoam22
